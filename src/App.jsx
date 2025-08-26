@@ -7,7 +7,6 @@ function App() {
       <main className="container">
         <IngColor/>
         <hr/>
-        
       </main>
     </>
   )
