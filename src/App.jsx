@@ -1,3 +1,4 @@
+import React from "react"
 import IngColor from "./assets/components/ingColor"
 
 function App() {
@@ -6,7 +7,6 @@ function App() {
     <>
       <main className="container">
         <IngColor/>
-        <hr/>
       </main>
     </>
   )
