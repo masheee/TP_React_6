@@ -1,5 +1,4 @@
-import React from "react"
-import IngColor from "./assets/components/ingColor"
+import IngColor from "./assets/components/IngColor"
 
 function App() {
 
