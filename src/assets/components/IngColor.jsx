@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from "react";
-import CardColor from "./cardColor";
+import { useState, useEffect } from "react";
+import CardColor from "./CardColor";
 
 const IngColor = () => {
   const [colorInput, setColorInput] = useState("");
